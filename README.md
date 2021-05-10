@@ -18,7 +18,10 @@ Project is created using:
 * JavaScript
 * Nodejs
 * Expressjs
+* Sequelize
+* MYSQL2
 * Heroku
+* dotenv
 
 ## **_Usage_**
 Final app should look something like this:
