@@ -39,3 +39,5 @@ Here are some guidelines for installing the project on your local machine in ord
 https://github.com/Noemiegrau/just-tech-news
 
 ## **_Link URL of deployed app to Heroku_**
+https://stormy-brushlands-59554.herokuapp.com/ 
+https://git.heroku.com/stormy-brushlands-59554.git
