@@ -8,14 +8,16 @@
 * [Link URL of deployed app to Heroku](#link-URL-of-deployed-app-to-Heroku)
 
 ## **_Description of the project_**
-This project is a back-end application using Nodejs, Mysql database, sequelize and is deployed on Heroku. 
+This project is a full-stack application using Model-View-Controller (MVC) paradigm and is deployed on Heroku. It is a tech news website where users can post, upvote, and comment on links to news articles, but also update and delete their posts through a special dashboard interface. Users can login safely into their account via username and protected password.
 
 ## **_Technologies used_**
 Project is created using:
 * JavaScript
 * Nodejs
+* Expressjs
 * Sequelize
 * MYSQL2
+* Handlebarsjs
 * Heroku
 * dotenv
 
