@@ -30,7 +30,7 @@ Here are some guidelines for installing the project on your local machine in ord
 
 3. Run ```node server.js``` or ```node server``` in your terminal to launch the application.
 
-4. Enjoy and don't hesitate to contribute!
+4. Enjoy and don't hesitate to contribute! 🙂
 
 ## **_Link URL to GitHub Repository_**
 https://github.com/Noemiegrau/just-tech-news
